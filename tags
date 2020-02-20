@@ -1,0 +1,562 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+"	files/_static/underscore.js	/^    '"': '&quot;',$/;"	p	class:escapeMap
+"	out/_static/underscore.js	/^    '"': '&quot;',$/;"	p	class:escapeMap
+$.fn.autogrow.resize	files/_static/websupport.js	/^  $.fn.autogrow.resize = function(textarea) {$/;"	f
+$.fn.autogrow.resize	out/_static/websupport.js	/^  $.fn.autogrow.resize = function(textarea) {$/;"	f
+$.fn.comment	files/_static/websupport.js	/^  $.fn.comment = function() {$/;"	f
+$.fn.comment	out/_static/websupport.js	/^  $.fn.comment = function() {$/;"	f
+&	files/_static/underscore.js	/^    '&': '&amp;',$/;"	p	class:escapeMap
+&	out/_static/underscore.js	/^    '&': '&amp;',$/;"	p	class:escapeMap
+'	files/_static/underscore.js	/^    "'": "'",$/;"	p	class:escapes
+'	files/_static/underscore.js	/^    "'": '&#x27;',$/;"	p	class:escapeMap
+'	out/_static/underscore.js	/^    "'": "'",$/;"	p	class:escapes
+'	out/_static/underscore.js	/^    "'": '&#x27;',$/;"	p	class:escapeMap
+<	files/_static/underscore.js	/^    '<': '&lt;',$/;"	p	class:escapeMap
+<	out/_static/underscore.js	/^    '<': '&lt;',$/;"	p	class:escapeMap
+>	files/_static/underscore.js	/^    '>': '&gt;',$/;"	p	class:escapeMap
+>	out/_static/underscore.js	/^    '>': '&gt;',$/;"	p	class:escapeMap
+ATOM_FILENAME_BASE	conf.py	/^ATOM_FILENAME_BASE = "feed"$/;"	v
+ArrayProto	files/_static/underscore.js	/^  var ArrayProto = Array.prototype, ObjProto = Object.prototype;$/;"	v
+ArrayProto	out/_static/underscore.js	/^  var ArrayProto = Array.prototype, ObjProto = Object.prototype;$/;"	v
+BLOG_AUTHOR	conf.py	/^BLOG_AUTHOR = "Loïc Van Hoorebeeck"  # (translatable)$/;"	v
+BLOG_DESCRIPTION	conf.py	/^BLOG_DESCRIPTION = "Millian Poquet's Personal Page"  # (translatable)$/;"	v
+BLOG_EMAIL	conf.py	/^BLOG_EMAIL = "not@my.mail"$/;"	v
+BLOG_TITLE	conf.py	/^BLOG_TITLE = "Millian Poquet"  # (translatable)$/;"	v
+CATEGORY_ALLOW_HIERARCHIES	conf.py	/^CATEGORY_ALLOW_HIERARCHIES = False$/;"	v
+CATEGORY_OUTPUT_FLAT_HIERARCHY	conf.py	/^CATEGORY_OUTPUT_FLAT_HIERARCHY = False$/;"	v
+COMMENT_SYSTEM	conf.py	/^COMMENT_SYSTEM = ""$/;"	v
+COMMENT_SYSTEM_ID	conf.py	/^COMMENT_SYSTEM_ID = ""$/;"	v
+COMPILERS	conf.py	/^COMPILERS = {$/;"	v
+CONTENT_FOOTER_FORMATS	conf.py	/^CONTENT_FOOTER_FORMATS = {$/;"	v
+Ctor	files/_static/underscore.js	/^    Ctor.prototype = null;$/;"	c
+Ctor	files/_static/underscore.js	/^  var Ctor = function(){};$/;"	f
+Ctor	out/_static/underscore.js	/^    Ctor.prototype = null;$/;"	c
+Ctor	out/_static/underscore.js	/^  var Ctor = function(){};$/;"	f
+DEFAULT_LANG	conf.py	/^DEFAULT_LANG = "en"$/;"	v
+FEED_LINKS_APPEND_QUERY	conf.py	/^FEED_LINKS_APPEND_QUERY = False$/;"	v
+FILES_FOLDERS	conf.py	/^FILES_FOLDERS = {$/;"	v
+FRONT_INDEX_HEADER	conf.py	/^FRONT_INDEX_HEADER = {$/;"	v
+GITHUB_COMMIT_SOURCE	conf.py	/^GITHUB_COMMIT_SOURCE = True$/;"	v
+GITHUB_DEPLOY_BRANCH	conf.py	/^GITHUB_DEPLOY_BRANCH = 'master'$/;"	v
+GITHUB_REMOTE_NAME	conf.py	/^GITHUB_REMOTE_NAME = 'github'$/;"	v
+GITHUB_SOURCE_BRANCH	conf.py	/^GITHUB_SOURCE_BRANCH = 'nikola'$/;"	v
+GLOBAL_CONTEXT	conf.py	/^GLOBAL_CONTEXT = {}$/;"	v
+GLOBAL_CONTEXT_FILLER	conf.py	/^GLOBAL_CONTEXT_FILLER = []$/;"	v
+HIDDEN_AUTHORS	conf.py	/^HIDDEN_AUTHORS = ['Guest']$/;"	v
+HIDDEN_CATEGORIES	conf.py	/^HIDDEN_CATEGORIES = []$/;"	v
+HIDDEN_TAGS	conf.py	/^HIDDEN_TAGS = ['mathjax']$/;"	v
+IMAGE_FOLDERS	conf.py	/^IMAGE_FOLDERS = {'images': 'images'}$/;"	v
+INDEXES_TITLE	conf.py	/^INDEXES_TITLE = "Blog"$/;"	v
+INDEX_PATH	conf.py	/^INDEX_PATH = "blog"$/;"	v
+INDEX_TEASERS	conf.py	/^INDEX_TEASERS = True$/;"	v
+LISTINGS_FOLDERS	conf.py	/^LISTINGS_FOLDERS = {$/;"	v
+MARKDOWN_EXTENSIONS	conf.py	/^MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']$/;"	v
+MAX_ARRAY_INDEX	files/_static/underscore.js	/^  var MAX_ARRAY_INDEX = Math.pow(2, 53) - 1;$/;"	v
+MAX_ARRAY_INDEX	out/_static/underscore.js	/^  var MAX_ARRAY_INDEX = Math.pow(2, 53) - 1;$/;"	v
+NAVIGATION_ALT_LINKS	conf.py	/^NAVIGATION_ALT_LINKS = {$/;"	v
+NAVIGATION_LINKS	conf.py	/^NAVIGATION_LINKS = {$/;"	v
+PAGES	conf.py	/^PAGES = ($/;"	v
+PLURAL_EXPR	files/_static/doctools.js	/^    this.PLURAL_EXPR = new Function('n', 'return +(' + catalog.plural_expr + ')');$/;"	f
+PLURAL_EXPR	out/_static/doctools.js	/^    this.PLURAL_EXPR = new Function('n', 'return +(' + catalog.plural_expr + ')');$/;"	f
+POSTS	conf.py	/^POSTS = ($/;"	v
+PRETTY_URLS	conf.py	/^PRETTY_URLS = True$/;"	v
+REDIRECTIONS	conf.py	/^REDIRECTIONS = []$/;"	v
+RSS_COPYRIGHT_FORMATS	conf.py	/^RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS$/;"	v
+RSS_COPYRIGHT_PLAIN	conf.py	/^RSS_COPYRIGHT_PLAIN = 'Contents © {date} {author} {license}'$/;"	v
+SITE_URL	conf.py	/^SITE_URL = "https:\/\/mpoquet.github.io\/"$/;"	v
+STRIP_INDEXES	conf.py	/^STRIP_INDEXES = True$/;"	v
+Stemmer	files/_static/language_data.js	/^var Stemmer = function() {$/;"	c
+Stemmer	out/_static/language_data.js	/^var Stemmer = function() {$/;"	c
+SymbolProto	files/_static/underscore.js	/^  var SymbolProto = typeof Symbol !== 'undefined' ? Symbol.prototype : null;$/;"	v
+SymbolProto	out/_static/underscore.js	/^  var SymbolProto = typeof Symbol !== 'undefined' ? Symbol.prototype : null;$/;"	v
+THEME	conf.py	/^THEME = "bootstrap4"$/;"	v
+THEME_COLOR	conf.py	/^THEME_COLOR = '#5670d4'$/;"	v
+THEME_CONFIG	conf.py	/^THEME_CONFIG = {$/;"	v
+TIMEZONE	conf.py	/^TIMEZONE = "Europe\/Paris"$/;"	v
+TRANSLATIONS	conf.py	/^TRANSLATIONS = {$/;"	v
+TRANSLATIONS	files/_static/doctools.js	/^  TRANSLATIONS : {},$/;"	p	class:Documentation
+TRANSLATIONS	out/_static/doctools.js	/^  TRANSLATIONS : {},$/;"	p	class:Documentation
+TRANSLATIONS_PATTERN	conf.py	/^TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'$/;"	v
+URL_ROOT	files/_static/documentation_options.js	/^    URL_ROOT: document.getElementById("documentation_options").getAttribute('data-url_root'),$/;"	p	class:DOCUMENTATION_OPTIONS
+URL_ROOT	out/_static/documentation_options.js	/^    URL_ROOT: document.getElementById("documentation_options").getAttribute('data-url_root'),$/;"	p	class:DOCUMENTATION_OPTIONS
+USE_TAG_METADATA	conf.py	/^USE_TAG_METADATA = False$/;"	v
+WARN_ABOUT_TAG_METADATA	conf.py	/^WARN_ABOUT_TAG_METADATA = False$/;"	v
+\	files/_static/underscore.js	/^    '\\\\': '\\\\',$/;"	p	class:escapes
+\	out/_static/underscore.js	/^    '\\\\': '\\\\',$/;"	p	class:escapes
+_	files/_static/underscore.js	/^  _.object = function(list, values) {$/;"	f
+_	files/_static/underscore.js	/^  var _ = function(obj) {$/;"	c
+_	out/_static/underscore.js	/^  _.object = function(list, values) {$/;"	f
+_	out/_static/underscore.js	/^  var _ = function(obj) {$/;"	c
+_.after	files/_static/underscore.js	/^  _.after = function(times, func) {$/;"	f
+_.after	out/_static/underscore.js	/^  _.after = function(times, func) {$/;"	f
+_.allKeys	files/_static/underscore.js	/^  _.allKeys = function(obj) {$/;"	f
+_.allKeys	out/_static/underscore.js	/^  _.allKeys = function(obj) {$/;"	f
+_.before	files/_static/underscore.js	/^  _.before = function(times, func) {$/;"	f
+_.before	out/_static/underscore.js	/^  _.before = function(times, func) {$/;"	f
+_.chain	files/_static/underscore.js	/^  _.chain = function(obj) {$/;"	f
+_.chain	out/_static/underscore.js	/^  _.chain = function(obj) {$/;"	f
+_.chunk	files/_static/underscore.js	/^  _.chunk = function(array, count) {$/;"	f
+_.chunk	out/_static/underscore.js	/^  _.chunk = function(array, count) {$/;"	f
+_.clone	files/_static/underscore.js	/^  _.clone = function(obj) {$/;"	f
+_.clone	out/_static/underscore.js	/^  _.clone = function(obj) {$/;"	f
+_.compact	files/_static/underscore.js	/^  _.compact = function(array) {$/;"	f
+_.compact	out/_static/underscore.js	/^  _.compact = function(array) {$/;"	f
+_.compose	files/_static/underscore.js	/^  _.compose = function() {$/;"	f
+_.compose	out/_static/underscore.js	/^  _.compose = function() {$/;"	f
+_.constant	files/_static/underscore.js	/^  _.constant = function(value) {$/;"	f
+_.constant	out/_static/underscore.js	/^  _.constant = function(value) {$/;"	f
+_.create	files/_static/underscore.js	/^  _.create = function(prototype, props) {$/;"	f
+_.create	out/_static/underscore.js	/^  _.create = function(prototype, props) {$/;"	f
+_.debounce	files/_static/underscore.js	/^  _.debounce = function(func, wait, immediate) {$/;"	f
+_.debounce	out/_static/underscore.js	/^  _.debounce = function(func, wait, immediate) {$/;"	f
+_.findKey	files/_static/underscore.js	/^  _.findKey = function(obj, predicate, context) {$/;"	f
+_.findKey	out/_static/underscore.js	/^  _.findKey = function(obj, predicate, context) {$/;"	f
+_.findWhere	files/_static/underscore.js	/^  _.findWhere = function(obj, attrs) {$/;"	f
+_.findWhere	out/_static/underscore.js	/^  _.findWhere = function(obj, attrs) {$/;"	f
+_.flatten	files/_static/underscore.js	/^  _.flatten = function(array, shallow) {$/;"	f
+_.flatten	out/_static/underscore.js	/^  _.flatten = function(array, shallow) {$/;"	f
+_.has	files/_static/underscore.js	/^  _.has = function(obj, path) {$/;"	f
+_.has	out/_static/underscore.js	/^  _.has = function(obj, path) {$/;"	f
+_.identity	files/_static/underscore.js	/^  _.identity = function(value) {$/;"	f
+_.identity	out/_static/underscore.js	/^  _.identity = function(value) {$/;"	f
+_.initial	files/_static/underscore.js	/^  _.initial = function(array, n, guard) {$/;"	f
+_.initial	out/_static/underscore.js	/^  _.initial = function(array, n, guard) {$/;"	f
+_.intersection	files/_static/underscore.js	/^  _.intersection = function(array) {$/;"	f
+_.intersection	out/_static/underscore.js	/^  _.intersection = function(array) {$/;"	f
+_.invert	files/_static/underscore.js	/^  _.invert = function(obj) {$/;"	f
+_.invert	out/_static/underscore.js	/^  _.invert = function(obj) {$/;"	f
+_.isArguments	files/_static/underscore.js	/^    _.isArguments = function(obj) {$/;"	f
+_.isArguments	out/_static/underscore.js	/^    _.isArguments = function(obj) {$/;"	f
+_.isBoolean	files/_static/underscore.js	/^  _.isBoolean = function(obj) {$/;"	f
+_.isBoolean	out/_static/underscore.js	/^  _.isBoolean = function(obj) {$/;"	f
+_.isElement	files/_static/underscore.js	/^  _.isElement = function(obj) {$/;"	f
+_.isElement	out/_static/underscore.js	/^  _.isElement = function(obj) {$/;"	f
+_.isEmpty	files/_static/underscore.js	/^  _.isEmpty = function(obj) {$/;"	f
+_.isEmpty	out/_static/underscore.js	/^  _.isEmpty = function(obj) {$/;"	f
+_.isEqual	files/_static/underscore.js	/^  _.isEqual = function(a, b) {$/;"	f
+_.isEqual	out/_static/underscore.js	/^  _.isEqual = function(a, b) {$/;"	f
+_.isFinite	files/_static/underscore.js	/^  _.isFinite = function(obj) {$/;"	f
+_.isFinite	out/_static/underscore.js	/^  _.isFinite = function(obj) {$/;"	f
+_.isFunction	files/_static/underscore.js	/^    _.isFunction = function(obj) {$/;"	f
+_.isFunction	out/_static/underscore.js	/^    _.isFunction = function(obj) {$/;"	f
+_.isMatch	files/_static/underscore.js	/^  _.isMatch = function(object, attrs) {$/;"	f
+_.isMatch	out/_static/underscore.js	/^  _.isMatch = function(object, attrs) {$/;"	f
+_.isNaN	files/_static/underscore.js	/^  _.isNaN = function(obj) {$/;"	f
+_.isNaN	out/_static/underscore.js	/^  _.isNaN = function(obj) {$/;"	f
+_.isNull	files/_static/underscore.js	/^  _.isNull = function(obj) {$/;"	f
+_.isNull	out/_static/underscore.js	/^  _.isNull = function(obj) {$/;"	f
+_.isObject	files/_static/underscore.js	/^  _.isObject = function(obj) {$/;"	f
+_.isObject	out/_static/underscore.js	/^  _.isObject = function(obj) {$/;"	f
+_.isUndefined	files/_static/underscore.js	/^  _.isUndefined = function(obj) {$/;"	f
+_.isUndefined	out/_static/underscore.js	/^  _.isUndefined = function(obj) {$/;"	f
+_.keys	files/_static/underscore.js	/^  _.keys = function(obj) {$/;"	f
+_.keys	out/_static/underscore.js	/^  _.keys = function(obj) {$/;"	f
+_.last	files/_static/underscore.js	/^  _.last = function(array, n, guard) {$/;"	f
+_.last	out/_static/underscore.js	/^  _.last = function(array, n, guard) {$/;"	f
+_.mapObject	files/_static/underscore.js	/^  _.mapObject = function(obj, iteratee, context) {$/;"	f
+_.mapObject	out/_static/underscore.js	/^  _.mapObject = function(obj, iteratee, context) {$/;"	f
+_.max	files/_static/underscore.js	/^  _.max = function(obj, iteratee, context) {$/;"	f
+_.max	out/_static/underscore.js	/^  _.max = function(obj, iteratee, context) {$/;"	f
+_.memoize	files/_static/underscore.js	/^  _.memoize = function(func, hasher) {$/;"	f
+_.memoize	out/_static/underscore.js	/^  _.memoize = function(func, hasher) {$/;"	f
+_.min	files/_static/underscore.js	/^  _.min = function(obj, iteratee, context) {$/;"	f
+_.min	out/_static/underscore.js	/^  _.min = function(obj, iteratee, context) {$/;"	f
+_.mixin	files/_static/underscore.js	/^  _.mixin = function(obj) {$/;"	f
+_.mixin	out/_static/underscore.js	/^  _.mixin = function(obj) {$/;"	f
+_.negate	files/_static/underscore.js	/^  _.negate = function(predicate) {$/;"	f
+_.negate	out/_static/underscore.js	/^  _.negate = function(predicate) {$/;"	f
+_.noConflict	files/_static/underscore.js	/^  _.noConflict = function() {$/;"	f
+_.noConflict	out/_static/underscore.js	/^  _.noConflict = function() {$/;"	f
+_.noop	files/_static/underscore.js	/^  _.noop = function(){};$/;"	f
+_.noop	out/_static/underscore.js	/^  _.noop = function(){};$/;"	f
+_.pairs	files/_static/underscore.js	/^  _.pairs = function(obj) {$/;"	f
+_.pairs	out/_static/underscore.js	/^  _.pairs = function(obj) {$/;"	f
+_.pluck	files/_static/underscore.js	/^  _.pluck = function(obj, key) {$/;"	f
+_.pluck	out/_static/underscore.js	/^  _.pluck = function(obj, key) {$/;"	f
+_.property	files/_static/underscore.js	/^  _.property = function(path) {$/;"	f
+_.property	out/_static/underscore.js	/^  _.property = function(path) {$/;"	f
+_.propertyOf	files/_static/underscore.js	/^  _.propertyOf = function(obj) {$/;"	f
+_.propertyOf	out/_static/underscore.js	/^  _.propertyOf = function(obj) {$/;"	f
+_.random	files/_static/underscore.js	/^  _.random = function(min, max) {$/;"	f
+_.random	out/_static/underscore.js	/^  _.random = function(min, max) {$/;"	f
+_.range	files/_static/underscore.js	/^  _.range = function(start, stop, step) {$/;"	f
+_.range	out/_static/underscore.js	/^  _.range = function(start, stop, step) {$/;"	f
+_.reject	files/_static/underscore.js	/^  _.reject = function(obj, predicate, context) {$/;"	f
+_.reject	out/_static/underscore.js	/^  _.reject = function(obj, predicate, context) {$/;"	f
+_.result	files/_static/underscore.js	/^  _.result = function(obj, path, fallback) {$/;"	f
+_.result	out/_static/underscore.js	/^  _.result = function(obj, path, fallback) {$/;"	f
+_.sample	files/_static/underscore.js	/^  _.sample = function(obj, n, guard) {$/;"	f
+_.sample	out/_static/underscore.js	/^  _.sample = function(obj, n, guard) {$/;"	f
+_.shuffle	files/_static/underscore.js	/^  _.shuffle = function(obj) {$/;"	f
+_.shuffle	out/_static/underscore.js	/^  _.shuffle = function(obj) {$/;"	f
+_.size	files/_static/underscore.js	/^  _.size = function(obj) {$/;"	f
+_.size	out/_static/underscore.js	/^  _.size = function(obj) {$/;"	f
+_.sortBy	files/_static/underscore.js	/^  _.sortBy = function(obj, iteratee, context) {$/;"	f
+_.sortBy	out/_static/underscore.js	/^  _.sortBy = function(obj, iteratee, context) {$/;"	f
+_.sortedIndex	files/_static/underscore.js	/^  _.sortedIndex = function(array, obj, iteratee, context) {$/;"	f
+_.sortedIndex	out/_static/underscore.js	/^  _.sortedIndex = function(array, obj, iteratee, context) {$/;"	f
+_.tap	files/_static/underscore.js	/^  _.tap = function(obj, interceptor) {$/;"	f
+_.tap	out/_static/underscore.js	/^  _.tap = function(obj, interceptor) {$/;"	f
+_.throttle	files/_static/underscore.js	/^  _.throttle = function(func, wait, options) {$/;"	f
+_.throttle	out/_static/underscore.js	/^  _.throttle = function(func, wait, options) {$/;"	f
+_.times	files/_static/underscore.js	/^  _.times = function(n, iteratee, context) {$/;"	f
+_.times	out/_static/underscore.js	/^  _.times = function(n, iteratee, context) {$/;"	f
+_.toArray	files/_static/underscore.js	/^  _.toArray = function(obj) {$/;"	f
+_.toArray	out/_static/underscore.js	/^  _.toArray = function(obj) {$/;"	f
+_.uniqueId	files/_static/underscore.js	/^  _.uniqueId = function(prefix) {$/;"	f
+_.uniqueId	out/_static/underscore.js	/^  _.uniqueId = function(prefix) {$/;"	f
+_.unzip	files/_static/underscore.js	/^  _.unzip = function(array) {$/;"	f
+_.unzip	out/_static/underscore.js	/^  _.unzip = function(array) {$/;"	f
+_.values	files/_static/underscore.js	/^  _.values = function(obj) {$/;"	f
+_.values	out/_static/underscore.js	/^  _.values = function(obj) {$/;"	f
+_.where	files/_static/underscore.js	/^  _.where = function(obj, attrs) {$/;"	f
+_.where	out/_static/underscore.js	/^  _.where = function(obj, attrs) {$/;"	f
+_.wrap	files/_static/underscore.js	/^  _.wrap = function(func, wrapper) {$/;"	f
+_.wrap	out/_static/underscore.js	/^  _.wrap = function(func, wrapper) {$/;"	f
+_index	files/_static/searchtools.js	/^  _index : null,$/;"	p	class:Search
+_index	out/_static/searchtools.js	/^  _index : null,$/;"	p	class:Search
+_pulse_status	files/_static/searchtools.js	/^  _pulse_status : -1,$/;"	p	class:Search
+_pulse_status	out/_static/searchtools.js	/^  _pulse_status : -1,$/;"	p	class:Search
+_queued_query	files/_static/searchtools.js	/^  _queued_query : null,$/;"	p	class:Search
+_queued_query	out/_static/searchtools.js	/^  _queued_query : null,$/;"	p	class:Search
+`	files/_static/underscore.js	/^    '`': '&#x60;'$/;"	p	class:escapeMap
+`	out/_static/underscore.js	/^    '`': '&#x60;'$/;"	p	class:escapeMap
+acceptComment	files/_static/websupport.js	/^  function acceptComment(id) {$/;"	f
+acceptComment	out/_static/websupport.js	/^  function acceptComment(id) {$/;"	f
+acceptCommentURL	files/_static/websupport.js	/^    acceptCommentURL: '\/_accept_comment',$/;"	p	class:opts
+acceptCommentURL	out/_static/websupport.js	/^    acceptCommentURL: '\/_accept_comment',$/;"	p	class:opts
+addComment	files/_static/websupport.js	/^  function addComment(form) {$/;"	f
+addComment	out/_static/websupport.js	/^  function addComment(form) {$/;"	f
+addCommentURL	files/_static/websupport.js	/^    addCommentURL: '\/_add_comment',$/;"	p	class:opts
+addCommentURL	out/_static/websupport.js	/^    addCommentURL: '\/_add_comment',$/;"	p	class:opts
+alism	files/_static/language_data.js	/^    alism: 'al',$/;"	p	class:Stemmer.step2list
+alism	out/_static/language_data.js	/^    alism: 'al',$/;"	p	class:Stemmer.step2list
+aliti	files/_static/language_data.js	/^    aliti: 'al',$/;"	p	class:Stemmer.step2list
+aliti	out/_static/language_data.js	/^    aliti: 'al',$/;"	p	class:Stemmer.step2list
+alize	files/_static/language_data.js	/^    alize: 'al',$/;"	p	class:Stemmer.step3list
+alize	out/_static/language_data.js	/^    alize: 'al',$/;"	p	class:Stemmer.step3list
+alli	files/_static/language_data.js	/^    alli: 'al',$/;"	p	class:Stemmer.step2list
+alli	out/_static/language_data.js	/^    alli: 'al',$/;"	p	class:Stemmer.step2list
+anci	files/_static/language_data.js	/^    anci: 'ance',$/;"	p	class:Stemmer.step2list
+anci	out/_static/language_data.js	/^    anci: 'ance',$/;"	p	class:Stemmer.step2list
+appendComments	files/_static/websupport.js	/^  function appendComments(comments, ul) {$/;"	f
+appendComments	out/_static/websupport.js	/^  function appendComments(comments, ul) {$/;"	f
+areArrays	files/_static/underscore.js	/^    var areArrays = className === '[object Array]';$/;"	v
+areArrays	out/_static/underscore.js	/^    var areArrays = className === '[object Array]';$/;"	v
+arguments	src/prepend_nikola_metadata.py	/^    arguments = docopt(__doc__)$/;"	v
+ation	files/_static/language_data.js	/^    ation: 'ate',$/;"	p	class:Stemmer.step2list
+ation	out/_static/language_data.js	/^    ation: 'ate',$/;"	p	class:Stemmer.step2list
+ational	files/_static/language_data.js	/^    ational: 'ate',$/;"	p	class:Stemmer.step2list
+ational	out/_static/language_data.js	/^    ational: 'ate',$/;"	p	class:Stemmer.step2list
+ative	files/_static/language_data.js	/^    ative: '',$/;"	p	class:Stemmer.step3list
+ative	out/_static/language_data.js	/^    ative: '',$/;"	p	class:Stemmer.step3list
+ator	files/_static/language_data.js	/^    ator: 'ate',$/;"	p	class:Stemmer.step2list
+ator	out/_static/language_data.js	/^    ator: 'ate',$/;"	p	class:Stemmer.step2list
+baseCreate	files/_static/underscore.js	/^  var baseCreate = function(prototype) {$/;"	f
+baseCreate	out/_static/underscore.js	/^  var baseCreate = function(prototype) {$/;"	f
+biliti	files/_static/language_data.js	/^    biliti: 'ble',$/;"	p	class:Stemmer.step2list
+biliti	out/_static/language_data.js	/^    biliti: 'ble',$/;"	p	class:Stemmer.step2list
+bli	files/_static/language_data.js	/^    bli: 'ble',$/;"	p	class:Stemmer.step2list
+bli	out/_static/language_data.js	/^    bli: 'ble',$/;"	p	class:Stemmer.step2list
+builtinIteratee	files/_static/underscore.js	/^  var builtinIteratee;$/;"	v
+builtinIteratee	out/_static/underscore.js	/^  var builtinIteratee;$/;"	v
+category	src/prepend_nikola_metadata.py	/^        category = arguments["--category"]$/;"	v
+category	src/prepend_nikola_metadata.py	/^    category = ""$/;"	v
+cb	files/_static/underscore.js	/^  var cb = function(value, context, argCount) {$/;"	f
+cb	out/_static/underscore.js	/^  var cb = function(value, context, argCount) {$/;"	f
+chainResult	files/_static/underscore.js	/^  var chainResult = function(instance, obj) {$/;"	f
+chainResult	out/_static/underscore.js	/^  var chainResult = function(instance, obj) {$/;"	f
+closeCommentImage	files/_static/websupport.js	/^    closeCommentImage: '\/static\/_static\/comment-close.png',$/;"	p	class:opts
+closeCommentImage	out/_static/websupport.js	/^    closeCommentImage: '\/static\/_static\/comment-close.png',$/;"	p	class:opts
+closeReply	files/_static/websupport.js	/^  function closeReply(id) {$/;"	f
+closeReply	out/_static/websupport.js	/^  function closeReply(id) {$/;"	f
+collectNonEnumProps	files/_static/underscore.js	/^  var collectNonEnumProps = function(obj, keys) {$/;"	f
+collectNonEnumProps	out/_static/underscore.js	/^  var collectNonEnumProps = function(obj, keys) {$/;"	f
+commentBrightImage	files/_static/websupport.js	/^    commentBrightImage: '\/static\/_static\/comment-bright.png',$/;"	p	class:opts
+commentBrightImage	out/_static/websupport.js	/^    commentBrightImage: '\/static\/_static\/comment-bright.png',$/;"	p	class:opts
+commentImage	files/_static/websupport.js	/^    commentImage: '\/static\/_static\/comment.png',$/;"	p	class:opts
+commentImage	out/_static/websupport.js	/^    commentImage: '\/static\/_static\/comment.png',$/;"	p	class:opts
+commentTemplate	files/_static/websupport.js	/^  var commentTemplate = '\\$/;"	v
+commentTemplate	out/_static/websupport.js	/^  var commentTemplate = '\\$/;"	v
+comment_id	files/_static/websupport.js	/^      comment_id: id.substring(2),$/;"	p	class:handleVote.d
+comment_id	out/_static/websupport.js	/^      comment_id: id.substring(2),$/;"	p	class:handleVote.d
+comp	files/_static/websupport.js	/^      comp = function(a, b) { return a[i] - b[i]; };$/;"	f
+comp	out/_static/websupport.js	/^      comp = function(a, b) { return a[i] - b[i]; };$/;"	f
+createAssigner	files/_static/underscore.js	/^  var createAssigner = function(keysFunc, defaults) {$/;"	f
+createAssigner	out/_static/underscore.js	/^  var createAssigner = function(keysFunc, defaults) {$/;"	f
+createCommentDiv	files/_static/websupport.js	/^  function createCommentDiv(comment) {$/;"	f
+createCommentDiv	out/_static/websupport.js	/^  function createCommentDiv(comment) {$/;"	f
+createEscaper	files/_static/underscore.js	/^  var createEscaper = function(map) {$/;"	f
+createEscaper	out/_static/underscore.js	/^  var createEscaper = function(map) {$/;"	f
+createIndexFinder	files/_static/underscore.js	/^  var createIndexFinder = function(dir, predicateFind, sortedIndex) {$/;"	f
+createIndexFinder	out/_static/underscore.js	/^  var createIndexFinder = function(dir, predicateFind, sortedIndex) {$/;"	f
+createPredicateIndexFinder	files/_static/underscore.js	/^  var createPredicateIndexFinder = function(dir) {$/;"	f
+createPredicateIndexFinder	out/_static/underscore.js	/^  var createPredicateIndexFinder = function(dir) {$/;"	f
+createReduce	files/_static/underscore.js	/^  var createReduce = function(dir) {$/;"	f
+createReduce	out/_static/underscore.js	/^  var createReduce = function(dir) {$/;"	f
+date	src/prepend_nikola_metadata.py	/^        date = arguments["--date"]$/;"	v
+date	src/prepend_nikola_metadata.py	/^    date = datetime.datetime.now().isoformat()$/;"	v
+debounced.cancel	files/_static/underscore.js	/^    debounced.cancel = function() {$/;"	f
+debounced.cancel	out/_static/underscore.js	/^    debounced.cancel = function() {$/;"	f
+deepEq	files/_static/underscore.js	/^  deepEq = function(a, b, aStack, bStack) {$/;"	f
+deepEq	out/_static/underscore.js	/^  deepEq = function(a, b, aStack, bStack) {$/;"	f
+deepGet	files/_static/underscore.js	/^  var deepGet = function(obj, path) {$/;"	f
+deepGet	out/_static/underscore.js	/^  var deepGet = function(obj, path) {$/;"	f
+deleteComment	files/_static/websupport.js	/^  function deleteComment(id) {$/;"	f
+deleteComment	out/_static/websupport.js	/^  function deleteComment(id) {$/;"	f
+deleteCommentURL	files/_static/websupport.js	/^    deleteCommentURL: '\/_delete_comment',$/;"	p	class:opts
+deleteCommentURL	out/_static/websupport.js	/^    deleteCommentURL: '\/_delete_comment',$/;"	p	class:opts
+desc	src/prepend_nikola_metadata.py	/^        desc = arguments["--desc"]$/;"	v
+desc	src/prepend_nikola_metadata.py	/^    desc = ""$/;"	v
+displayNextItem	files/_static/searchtools.js	/^    function displayNextItem() {$/;"	f
+displayNextItem	out/_static/searchtools.js	/^    function displayNextItem() {$/;"	f
+downArrow	files/_static/websupport.js	/^    downArrow: '\/static\/_static\/down.png',$/;"	p	class:opts
+downArrow	out/_static/websupport.js	/^    downArrow: '\/static\/_static\/down.png',$/;"	p	class:opts
+downArrowPressed	files/_static/websupport.js	/^    downArrowPressed: '\/static\/_static\/down-pressed.png',$/;"	p	class:opts
+downArrowPressed	out/_static/websupport.js	/^    downArrowPressed: '\/static\/_static\/down-pressed.png',$/;"	p	class:opts
+eli	files/_static/language_data.js	/^    eli: 'e',$/;"	p	class:Stemmer.step2list
+eli	out/_static/language_data.js	/^    eli: 'e',$/;"	p	class:Stemmer.step2list
+enci	files/_static/language_data.js	/^    enci: 'ence',$/;"	p	class:Stemmer.step2list
+enci	out/_static/language_data.js	/^    enci: 'ence',$/;"	p	class:Stemmer.step2list
+entli	files/_static/language_data.js	/^    entli: 'ent',$/;"	p	class:Stemmer.step2list
+entli	out/_static/language_data.js	/^    entli: 'ent',$/;"	p	class:Stemmer.step2list
+eq	files/_static/underscore.js	/^  eq = function(a, b, aStack, bStack) {$/;"	f
+eq	files/_static/underscore.js	/^  var eq, deepEq;$/;"	v
+eq	out/_static/underscore.js	/^  eq = function(a, b, aStack, bStack) {$/;"	f
+eq	out/_static/underscore.js	/^  var eq, deepEq;$/;"	v
+escaper	files/_static/underscore.js	/^    var escaper = function(match) {$/;"	f	function:createEscaper
+escaper	out/_static/underscore.js	/^    var escaper = function(match) {$/;"	f	function:createEscaper
+evaluate	files/_static/underscore.js	/^    evaluate: \/<%([\\s\\S]+?)%>\/g,$/;"	p	class:_.templateSettings
+evaluate	out/_static/underscore.js	/^    evaluate: \/<%([\\s\\S]+?)%>\/g,$/;"	p	class:_.templateSettings
+excluded	files/_static/searchtools.js	/^    var excluded = [];$/;"	v
+excluded	out/_static/searchtools.js	/^    var excluded = [];$/;"	v
+executeBound	files/_static/underscore.js	/^  var executeBound = function(sourceFunc, boundFunc, context, callingContext, args) {$/;"	f
+executeBound	out/_static/underscore.js	/^  var executeBound = function(sourceFunc, boundFunc, context, callingContext, args) {$/;"	f
+fileMap	files/_static/searchtools.js	/^    var fileMap = {};$/;"	v
+fileMap	out/_static/searchtools.js	/^    var fileMap = {};$/;"	v
+file_prefix	src/prepend_nikola_metadata.py	/^def file_prefix(html_file):$/;"	f
+flatten	files/_static/underscore.js	/^  var flatten = function(input, shallow, strict, output) {$/;"	f
+flatten	out/_static/underscore.js	/^  var flatten = function(input, shallow, strict, output) {$/;"	f
+fn.autogrow	files/_static/websupport.js	/^(function($) {$/;"	f
+fn.autogrow	out/_static/websupport.js	/^(function($) {$/;"	f
+ful	files/_static/language_data.js	/^    ful: '',$/;"	p	class:Stemmer.step3list
+ful	out/_static/language_data.js	/^    ful: '',$/;"	p	class:Stemmer.step3list
+fulness	files/_static/language_data.js	/^    fulness: 'ful',$/;"	p	class:Stemmer.step2list
+fulness	out/_static/language_data.js	/^    fulness: 'ful',$/;"	p	class:Stemmer.step2list
+generate_html_comment	src/prepend_nikola_metadata.py	/^def generate_html_comment(title, slug, date, tags, category, link, description, type_):$/;"	f
+getChildren	files/_static/websupport.js	/^  function getChildren(ul, recursive) {$/;"	f
+getChildren	out/_static/websupport.js	/^  function getChildren(ul, recursive) {$/;"	f
+getComments	files/_static/websupport.js	/^  function getComments(id) {$/;"	f
+getComments	out/_static/websupport.js	/^  function getComments(id) {$/;"	f
+getCommentsURL	files/_static/websupport.js	/^    getCommentsURL: '\/_get_comments',$/;"	p	class:opts
+getCommentsURL	out/_static/websupport.js	/^    getCommentsURL: '\/_get_comments',$/;"	p	class:opts
+group	files/_static/underscore.js	/^  var group = function(behavior, partition) {$/;"	f
+group	out/_static/underscore.js	/^  var group = function(behavior, partition) {$/;"	f
+handle	files/_static/websupport.js	/^    function handle(ph, escape) {$/;"	f	function:renderTemplate
+handle	out/_static/websupport.js	/^    function handle(ph, escape) {$/;"	f	function:renderTemplate
+handleReSort	files/_static/websupport.js	/^  function handleReSort(link) {$/;"	f
+handleReSort	out/_static/websupport.js	/^  function handleReSort(link) {$/;"	f
+handleVote	files/_static/websupport.js	/^  function handleVote(link) {$/;"	f
+handleVote	out/_static/websupport.js	/^  function handleVote(link) {$/;"	f
+has	files/_static/underscore.js	/^  var has = function(obj, path) {$/;"	f
+has	out/_static/underscore.js	/^  var has = function(obj, path) {$/;"	f
+hide	files/_static/websupport.js	/^  function hide(id) {$/;"	f
+hide	out/_static/websupport.js	/^  function hide(id) {$/;"	f
+hideProposal	files/_static/websupport.js	/^  function hideProposal(id) {$/;"	f
+hideProposal	out/_static/websupport.js	/^  function hideProposal(id) {$/;"	f
+hideProposeChange	files/_static/websupport.js	/^  function hideProposeChange(id) {$/;"	f
+hideProposeChange	out/_static/websupport.js	/^  function hideProposeChange(id) {$/;"	f
+highlight	files/_static/doctools.js	/^  function highlight(node, addItems) {$/;"	f	function:jQuery.fn.highlightText
+highlight	out/_static/doctools.js	/^  function highlight(node, addItems) {$/;"	f	function:jQuery.fn.highlightText
+highlightstring	files/_static/searchtools.js	/^    var highlightstring = '?highlight=' + $.urlencode(hlterms.join(" "));$/;"	v
+highlightstring	out/_static/searchtools.js	/^    var highlightstring = '?highlight=' + $.urlencode(hlterms.join(" "));$/;"	v
+hlterms	files/_static/searchtools.js	/^    var hlterms = [];$/;"	v
+hlterms	out/_static/searchtools.js	/^    var hlterms = [];$/;"	v
+html_comment	src/prepend_nikola_metadata.py	/^    html_comment = generate_html_comment(title, slug, date, tags, category, link, desc, type_)$/;"	v
+i	files/_static/searchtools.js	/^    var i, j, file;$/;"	v
+i	files/_static/searchtools.js	/^    var i;$/;"	v
+i	out/_static/searchtools.js	/^    var i, j, file;$/;"	v
+i	out/_static/searchtools.js	/^    var i;$/;"	v
+ical	files/_static/language_data.js	/^    ical: 'ic',$/;"	p	class:Stemmer.step3list
+ical	out/_static/language_data.js	/^    ical: 'ic',$/;"	p	class:Stemmer.step3list
+icate	files/_static/language_data.js	/^    icate: 'ic',$/;"	p	class:Stemmer.step3list
+icate	out/_static/language_data.js	/^    icate: 'ic',$/;"	p	class:Stemmer.step3list
+iciti	files/_static/language_data.js	/^    iciti: 'ic',$/;"	p	class:Stemmer.step3list
+iciti	out/_static/language_data.js	/^    iciti: 'ic',$/;"	p	class:Stemmer.step3list
+idCounter	files/_static/underscore.js	/^  var idCounter = 0;$/;"	v
+idCounter	out/_static/underscore.js	/^  var idCounter = 0;$/;"	v
+init	files/_static/doctools.js	/^  init : function() {$/;"	m	class:Documentation
+init	files/_static/websupport.js	/^  function init() {$/;"	f
+init	out/_static/doctools.js	/^  init : function() {$/;"	m	class:Documentation
+init	out/_static/websupport.js	/^  function init() {$/;"	f
+initComparator	files/_static/websupport.js	/^  function initComparator() {$/;"	f
+initComparator	out/_static/websupport.js	/^  function initComparator() {$/;"	f
+initEvents	files/_static/websupport.js	/^  function initEvents() {$/;"	f
+initEvents	out/_static/websupport.js	/^  function initEvents() {$/;"	f
+input_filename	src/prepend_nikola_metadata.py	/^    input_filename = arguments["<input-file>"]$/;"	v
+insertComment	files/_static/websupport.js	/^  function insertComment(comment) {$/;"	f
+insertComment	out/_static/websupport.js	/^  function insertComment(comment) {$/;"	f
+isArrayLike	files/_static/underscore.js	/^  var isArrayLike = function(collection) {$/;"	f
+isArrayLike	out/_static/underscore.js	/^  var isArrayLike = function(collection) {$/;"	f
+iveness	files/_static/language_data.js	/^    iveness: 'ive',$/;"	p	class:Stemmer.step2list
+iveness	out/_static/language_data.js	/^    iveness: 'ive',$/;"	p	class:Stemmer.step2list
+iviti	files/_static/language_data.js	/^    iviti: 'ive',$/;"	p	class:Stemmer.step2list
+iviti	out/_static/language_data.js	/^    iviti: 'ive',$/;"	p	class:Stemmer.step2list
+ization	files/_static/language_data.js	/^    ization: 'ize',$/;"	p	class:Stemmer.step2list
+ization	out/_static/language_data.js	/^    ization: 'ize',$/;"	p	class:Stemmer.step2list
+izer	files/_static/language_data.js	/^    izer: 'ize',$/;"	p	class:Stemmer.step2list
+izer	out/_static/language_data.js	/^    izer: 'ize',$/;"	p	class:Stemmer.step2list
+jQuery.fn.highlightText	files/_static/doctools.js	/^jQuery.fn.highlightText = function(text, className) {$/;"	f
+jQuery.fn.highlightText	out/_static/doctools.js	/^jQuery.fn.highlightText = function(text, className) {$/;"	f
+jQuery.getQueryParameters	files/_static/doctools.js	/^jQuery.getQueryParameters = function(s) {$/;"	f
+jQuery.getQueryParameters	out/_static/doctools.js	/^jQuery.getQueryParameters = function(s) {$/;"	f
+jQuery.uaMatch	files/_static/doctools.js	/^  jQuery.uaMatch = function(ua) {$/;"	f
+jQuery.uaMatch	out/_static/doctools.js	/^  jQuery.uaMatch = function(ua) {$/;"	f
+jQuery.urldecode	files/_static/doctools.js	/^jQuery.urldecode = function(x) {$/;"	f
+jQuery.urldecode	out/_static/doctools.js	/^jQuery.urldecode = function(x) {$/;"	f
+keyInObj	files/_static/underscore.js	/^  var keyInObj = function(value, key, obj) {$/;"	f
+keyInObj	out/_static/underscore.js	/^  var keyInObj = function(value, key, obj) {$/;"	f
+later	files/_static/underscore.js	/^    var later = function() {$/;"	f
+later	files/_static/underscore.js	/^    var later = function(context, args) {$/;"	f	function:_.debounce
+later	out/_static/underscore.js	/^    var later = function() {$/;"	f
+later	out/_static/underscore.js	/^    var later = function(context, args) {$/;"	f	function:_.debounce
+length	files/_static/underscore.js	/^    var length = aStack.length;$/;"	v
+length	out/_static/underscore.js	/^    var length = aStack.length;$/;"	v
+link	src/prepend_nikola_metadata.py	/^        link = arguments["--link"]$/;"	v
+link	src/prepend_nikola_metadata.py	/^    link = ""$/;"	v
+loadingImage	files/_static/websupport.js	/^    loadingImage: '\/static\/_static\/ajax-loader.gif',$/;"	p	class:opts
+loadingImage	out/_static/websupport.js	/^    loadingImage: '\/static\/_static\/ajax-loader.gif',$/;"	p	class:opts
+logi	files/_static/language_data.js	/^    logi: 'log'$/;"	p	class:Stemmer.step2list
+logi	out/_static/language_data.js	/^    logi: 'log'$/;"	p	class:Stemmer.step2list
+memoize	files/_static/underscore.js	/^    var memoize = function(key) {$/;"	f	function:_.memoize
+memoize	out/_static/underscore.js	/^    var memoize = function(key) {$/;"	f	function:_.memoize
+moderator	files/_static/websupport.js	/^    moderator: false$/;"	p	class:opts
+moderator	out/_static/websupport.js	/^    moderator: false$/;"	p	class:opts
+n	files/_static/underscore.js	/^    '\\n': 'n',$/;"	p	class:escapes
+n	out/_static/underscore.js	/^    '\\n': 'n',$/;"	p	class:escapes
+nativeIsArray	files/_static/underscore.js	/^  var nativeIsArray = Array.isArray,$/;"	v
+nativeIsArray	out/_static/underscore.js	/^  var nativeIsArray = Array.isArray,$/;"	v
+ness	files/_static/language_data.js	/^    ness: ''$/;"	p	class:Stemmer.step3list
+ness	out/_static/language_data.js	/^    ness: ''$/;"	p	class:Stemmer.step3list
+noMatch	files/_static/underscore.js	/^  var noMatch = \/(.)^\/;$/;"	v
+noMatch	out/_static/underscore.js	/^  var noMatch = \/(.)^\/;$/;"	v
+nodelist	files/_static/underscore.js	/^  var nodelist = root.document && root.document.childNodes;$/;"	v
+nodelist	out/_static/underscore.js	/^  var nodelist = root.document && root.document.childNodes;$/;"	v
+nonEnumerableProps	files/_static/underscore.js	/^  var nonEnumerableProps = ['valueOf', 'isPrototypeOf', 'toString',$/;"	v
+nonEnumerableProps	out/_static/underscore.js	/^  var nonEnumerableProps = ['valueOf', 'isPrototypeOf', 'toString',$/;"	v
+objNameMatch	files/_static/searchtools.js	/^    objNameMatch: 11,$/;"	p	class:var.Scorer
+objNameMatch	out/_static/searchtools.js	/^    objNameMatch: 11,$/;"	p	class:var.Scorer
+objPartialMatch	files/_static/searchtools.js	/^    objPartialMatch: 6,$/;"	p	class:var.Scorer
+objPartialMatch	out/_static/searchtools.js	/^    objPartialMatch: 6,$/;"	p	class:var.Scorer
+objPrio	files/_static/searchtools.js	/^    objPrio: {0:  15,   \/\/ used to be importantResults$/;"	p	class:var.Scorer
+objPrio	out/_static/searchtools.js	/^    objPrio: {0:  15,   \/\/ used to be importantResults$/;"	p	class:var.Scorer
+objectterms	files/_static/searchtools.js	/^    var objectterms = [];$/;"	v
+objectterms	out/_static/searchtools.js	/^    var objectterms = [];$/;"	v
+openReply	files/_static/websupport.js	/^  function openReply(id) {$/;"	f
+openReply	out/_static/websupport.js	/^  function openReply(id) {$/;"	f
+optimizeCb	files/_static/underscore.js	/^  var optimizeCb = function(func, context, argCount) {$/;"	f
+optimizeCb	out/_static/underscore.js	/^  var optimizeCb = function(func, context, argCount) {$/;"	f
+ousli	files/_static/language_data.js	/^    ousli: 'ous',$/;"	p	class:Stemmer.step2list
+ousli	out/_static/language_data.js	/^    ousli: 'ous',$/;"	p	class:Stemmer.step2list
+ousness	files/_static/language_data.js	/^    ousness: 'ous',$/;"	p	class:Stemmer.step2list
+ousness	out/_static/language_data.js	/^    ousness: 'ous',$/;"	p	class:Stemmer.step2list
+output_filename	src/prepend_nikola_metadata.py	/^    output_filename = arguments["<output-file>"]$/;"	v
+popupTemplate	files/_static/websupport.js	/^  var popupTemplate = '\\$/;"	v
+popupTemplate	out/_static/websupport.js	/^  var popupTemplate = '\\$/;"	v
+prefix	src/prepend_nikola_metadata.py	/^    prefix = file_prefix(output_filename)$/;"	v
+prepend_content_to_file	src/prepend_nikola_metadata.py	/^def prepend_content_to_file(filename_input, filename_output, header):$/;"	f
+previousUnderscore	files/_static/underscore.js	/^  var previousUnderscore = root._;$/;"	v
+previousUnderscore	out/_static/underscore.js	/^  var previousUnderscore = root._;$/;"	v
+processVoteURL	files/_static/websupport.js	/^    processVoteURL: '\/_process_vote',$/;"	p	class:opts
+processVoteURL	out/_static/websupport.js	/^    processVoteURL: '\/_process_vote',$/;"	p	class:opts
+pulse	files/_static/searchtools.js	/^    function pulse() {$/;"	f
+pulse	out/_static/searchtools.js	/^    function pulse() {$/;"	f
+push	files/_static/underscore.js	/^  var push = ArrayProto.push,$/;"	v
+push	out/_static/underscore.js	/^  var push = ArrayProto.push,$/;"	v
+r	files/_static/underscore.js	/^    '\\r': 'r',$/;"	p	class:escapes
+r	out/_static/underscore.js	/^    '\\r': 'r',$/;"	p	class:escapes
+reStrSymbol	files/_static/underscore.js	/^  var reStrSymbol = \/[^\\ud800-\\udfff]|[\\ud800-\\udbff][\\udc00-\\udfff]|[\\ud800-\\udfff]\/g;$/;"	v
+reStrSymbol	out/_static/underscore.js	/^  var reStrSymbol = \/[^\\ud800-\\udfff]|[\\ud800-\\udbff][\\udc00-\\udfff]|[\\ud800-\\udfff]\/g;$/;"	v
+reducer	files/_static/underscore.js	/^    var reducer = function(obj, iteratee, memo, initial) {$/;"	f	function:createReduce
+reducer	out/_static/underscore.js	/^    var reducer = function(obj, iteratee, memo, initial) {$/;"	f	function:createReduce
+renderTemplate	files/_static/websupport.js	/^  function renderTemplate(template, context) {$/;"	f
+renderTemplate	out/_static/websupport.js	/^  function renderTemplate(template, context) {$/;"	f
+replyTemplate	files/_static/websupport.js	/^  var replyTemplate = '\\$/;"	v
+replyTemplate	out/_static/websupport.js	/^  var replyTemplate = '\\$/;"	v
+restArguments	files/_static/underscore.js	/^  var restArguments = function(func, startIndex) {$/;"	f
+restArguments	out/_static/underscore.js	/^  var restArguments = function(func, startIndex) {$/;"	f
+resultCount	files/_static/searchtools.js	/^    var resultCount = results.length;$/;"	v
+resultCount	out/_static/searchtools.js	/^    var resultCount = results.length;$/;"	v
+results	files/_static/searchtools.js	/^    var results = [];$/;"	v
+results	out/_static/searchtools.js	/^    var results = [];$/;"	v
+rv	files/_static/searchtools.js	/^    var rv = $('<div class="context"><\/div>').text(excerpt);$/;"	v
+rv	out/_static/searchtools.js	/^    var rv = $('<div class="context"><\/div>').text(excerpt);$/;"	v
+scoreMap	files/_static/searchtools.js	/^    var scoreMap = {};$/;"	v
+scoreMap	out/_static/searchtools.js	/^    var scoreMap = {};$/;"	v
+searchterms	files/_static/searchtools.js	/^    var searchterms = [];$/;"	v
+searchterms	out/_static/searchtools.js	/^    var searchterms = [];$/;"	v
+setComparator	files/_static/websupport.js	/^  function setComparator() {$/;"	f
+setComparator	out/_static/websupport.js	/^  function setComparator() {$/;"	f
+shallowProperty	files/_static/underscore.js	/^  var shallowProperty = function(key) {$/;"	f
+shallowProperty	out/_static/underscore.js	/^  var shallowProperty = function(key) {$/;"	f
+show	files/_static/websupport.js	/^  function show(id) {$/;"	f
+show	out/_static/websupport.js	/^  function show(id) {$/;"	f
+showError	files/_static/websupport.js	/^  function showError(message) {$/;"	f
+showError	out/_static/websupport.js	/^  function showError(message) {$/;"	f
+showProposal	files/_static/websupport.js	/^  function showProposal(id) {$/;"	f
+showProposal	out/_static/websupport.js	/^  function showProposal(id) {$/;"	f
+showProposeChange	files/_static/websupport.js	/^  function showProposeChange(id) {$/;"	f
+showProposeChange	out/_static/websupport.js	/^  function showProposeChange(id) {$/;"	f
+slug	src/prepend_nikola_metadata.py	/^        slug = arguments["--slug"]$/;"	v
+slug	src/prepend_nikola_metadata.py	/^    slug = prefix$/;"	v
+sortComments	files/_static/websupport.js	/^  function sortComments(comments) {$/;"	f
+sortComments	out/_static/websupport.js	/^  function sortComments(comments) {$/;"	f
+splitQuery	files/_static/language_data.js	/^function splitQuery(query) {$/;"	f
+splitQuery	files/_static/searchtools.js	/^  function splitQuery(query) {$/;"	f	function:function
+splitQuery	out/_static/language_data.js	/^function splitQuery(query) {$/;"	f
+splitQuery	out/_static/searchtools.js	/^  function splitQuery(query) {$/;"	f	function:function
+start	files/_static/searchtools.js	/^    var start = 0;$/;"	v
+start	out/_static/searchtools.js	/^    var start = 0;$/;"	v
+stemWord	files/_static/language_data.js	/^  this.stemWord = function (w) {$/;"	m	class:Stemmer
+stemWord	out/_static/language_data.js	/^  this.stemWord = function (w) {$/;"	m	class:Stemmer
+stopwords	files/_static/language_data.js	/^var stopwords = ["a","and","are","as","at","be","but","by","for","if","in","into","is","it","near","no","not","of","on","or","such","that","the","their","then","there","these","they","this","to","was","will","with"];$/;"	v
+stopwords	out/_static/language_data.js	/^var stopwords = ["a","and","are","as","at","be","but","by","for","if","in","into","is","it","near","no","not","of","on","or","such","that","the","their","then","there","these","they","this","to","was","will","with"];$/;"	v
+tags	src/prepend_nikola_metadata.py	/^        tags = arguments["--tags"]$/;"	v
+tags	src/prepend_nikola_metadata.py	/^    tags = ""$/;"	v
+template	files/_static/underscore.js	/^    var template = function(data) {$/;"	f	function:var
+template	out/_static/underscore.js	/^    var template = function(data) {$/;"	f	function:var
+throttled	files/_static/underscore.js	/^    var throttled = function() {$/;"	f
+throttled	out/_static/underscore.js	/^    var throttled = function() {$/;"	f
+throttled.cancel	files/_static/underscore.js	/^    throttled.cancel = function() {$/;"	f
+throttled.cancel	out/_static/underscore.js	/^    throttled.cancel = function() {$/;"	f
+tional	files/_static/language_data.js	/^    tional: 'tion',$/;"	p	class:Stemmer.step2list
+tional	out/_static/language_data.js	/^    tional: 'tion',$/;"	p	class:Stemmer.step2list
+title	src/prepend_nikola_metadata.py	/^        title = arguments["--title"]$/;"	v
+title	src/prepend_nikola_metadata.py	/^    title = prefix$/;"	v
+tmp	files/_static/searchtools.js	/^    var tmp = splitQuery(query);$/;"	v
+tmp	out/_static/searchtools.js	/^    var tmp = splitQuery(query);$/;"	v
+toString	files/_static/underscore.js	/^  _.prototype.toString = function() {$/;"	m	class:_
+toString	out/_static/underscore.js	/^  _.prototype.toString = function() {$/;"	m	class:_
+toggleCommentMarkupBox	files/_static/websupport.js	/^  function toggleCommentMarkupBox(id) {$/;"	f
+toggleCommentMarkupBox	out/_static/websupport.js	/^  function toggleCommentMarkupBox(id) {$/;"	f
+type_	src/prepend_nikola_metadata.py	/^        type_ = arguments["--type"]$/;"	v
+type_	src/prepend_nikola_metadata.py	/^    type_ = ""$/;"	v
+u2028	files/_static/underscore.js	/^    '\\u2028': 'u2028',$/;"	p	class:escapes
+u2028	out/_static/underscore.js	/^    '\\u2028': 'u2028',$/;"	p	class:escapes
+u2029	files/_static/underscore.js	/^    '\\u2029': 'u2029'$/;"	p	class:escapes
+u2029	out/_static/underscore.js	/^    '\\u2029': 'u2029'$/;"	p	class:escapes
+upArrow	files/_static/websupport.js	/^    upArrow: '\/static\/_static\/up.png',$/;"	p	class:opts
+upArrow	out/_static/websupport.js	/^    upArrow: '\/static\/_static\/up.png',$/;"	p	class:opts
+upArrowPressed	files/_static/websupport.js	/^    upArrowPressed: '\/static\/_static\/up-pressed.png',$/;"	p	class:opts
+upArrowPressed	out/_static/websupport.js	/^    upArrowPressed: '\/static\/_static\/up-pressed.png',$/;"	p	class:opts
+value	files/_static/underscore.js	/^  _.prototype.value = function() {$/;"	m	class:_
+value	out/_static/underscore.js	/^  _.prototype.value = function() {$/;"	m	class:_
+valueOf	files/_static/underscore.js	/^  _.prototype.valueOf = _.prototype.toJSON = _.prototype.value;$/;"	m	class:_
+valueOf	out/_static/underscore.js	/^  _.prototype.valueOf = _.prototype.toJSON = _.prototype.value;$/;"	m	class:_
+voting	files/_static/websupport.js	/^    voting: false,$/;"	p	class:opts
+voting	out/_static/websupport.js	/^    voting: false,$/;"	p	class:opts

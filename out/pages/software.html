@@ -1,0 +1,165 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Batsim &#8212; Python  documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <p>This page presents some of the software projects I work on.
+Please refer to the following links for up-to-date information.</p>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/mpoquet">my GitHub account</a></li>
+<li><a class="reference external" href="https://framagit.org/mpoquet">my Framagit account</a></li>
+<li><a class="reference external" href="https://gitlab.inria.fr/mpoquet">my Inria’s Gitlab account</a></li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="batsim">
+<h1>Batsim<a class="headerlink" href="#batsim" title="Permalink to this headline">¶</a></h1>
+<p>Batsim is a simulator that focuses on the study of resource management policies in distributed systems.
+It emerged from the desire to conduct sounder experiments to assess
+platform-level resource management algorithms,
+and the desire tobridge the gap between theory and practice at this context.</p>
+<p>The first prototypes have been developed by Olivier Richard.
+I then quickly became the main Batsim developer during my PhD in the Datamove (ex MOAIS) team.</p>
+<ul class="simple">
+<li>Batsim repositories (
+<a class="reference external" href="https://github.com/oar-team/batsim">GitHub</a>
+<a class="reference external" href="https://framagit.org/batsim/batsim">Framagit</a>
+<a class="reference external" href="https://gitlab.inria.fr/batsim/batsim">Inria’s Gitlab</a>
+).</li>
+<li>Initial paper <a class="reference external" href="https://hal.archives-ouvertes.fr/hal-01333471v1">HAL</a></li>
+<li>My <a class="reference external" href="./2017-phd-manuscript.pdf">PhD thesis manuscript</a> (notably chapters 3 and 4)</li>
+</ul>
+<p>A software ecosystem exists around Batsim. Here are some notable projects:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://gitlab.inria.fr/batsim/batexpe">batexpe</a>
+Tools to manage the execution of Batsim simulations. Written in Go.</li>
+<li><a class="reference external" href="https://gitlab.inria.fr/batsim/batsched">batsched</a>
+Scheduling algorithms for Batsim and <a class="reference external" href="http://wrench-project.org/">WRENCH</a>.
+Written in C++.</li>
+<li><a class="reference external" href="https://github.com/oar-team/evalys">evalys</a>
+Tools for visualization and analysis of resource management traces.
+Written in Python.</li>
+</ul>
+</div>
+<div class="section" id="simgrid">
+<h1>SimGrid<a class="headerlink" href="#simgrid" title="Permalink to this headline">¶</a></h1>
+<p><a class="reference external" href="http://simgrid.gforge.inria.fr/">SimGrid</a> is a simulation toolkit to
+study distributed systems.</p>
+<p>I used SimGrid during my PhD and conducted minor modifications to it.</p>
+<p>My postdoc aims at improving the debugging functionalities of SimGrid,
+notably by allowing to start a simulation from a real world application
+checkpoint. To this end, I also work on <a class="reference external" href="https://github.com/simgrid/remote-simgrid">Remote
+SimGrid</a>, which allows to
+run SimGrid simulations with several (Unix) processes.</p>
+</div>
+<div class="section" id="netorcai">
+<h1>netorcai<a class="headerlink" href="#netorcai" title="Permalink to this headline">¶</a></h1>
+<p><a class="reference external" href="https://github.com/mpoquet/netorcai">netorcai</a> is a network <em>server</em>
+to manage artificial intelligence games.</p>
+<p>The idea here is to see the game logic (the component in charge of
+managing the game state) as a separate entity from the network
+orchestrator (the component in charge of managing the different
+clients). This is great for separation of concerns, as with such
+architecture developing a new game no longer requires to develop a
+robust network server — which typically takes more time than developing
+the game itself.</p>
+<p>The server is in Go and many client libraries are available
+(C++, D, Fortran, Java, Python).</p>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../contents.html">Python</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../contents.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.8.5</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../_sources/pages/software.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

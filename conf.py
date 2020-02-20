@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Millian Poquet"  # (translatable)
+BLOG_AUTHOR = "Loïc Van Hoorebeeck"  # (translatable)
 BLOG_TITLE = "Millian Poquet"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -212,7 +212,6 @@ TIMEZONE = "Europe/Paris"
 # Default is:
 FILES_FOLDERS = {
     'files': '',
-    'posts/2019-03-why-r/data': '2019-03-why-r'
 }
 # Which means copy 'files' into 'output'
 
